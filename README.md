@@ -30,3 +30,5 @@ jerk. Meanwhile, the points close by the car are taken as starting reference for
 heading direction. The points of the previous path that are not visited by the car are
 reused within the next frame. To fill up the point lane I generate “add on” points which
 are equally spaced compared to the existing point lane and in accordance to the spline.
+
+Comment: To run the code you need to add the Eigen-libary to src.  
