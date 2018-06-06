@@ -34,6 +34,8 @@ reused within the next frame. To fill up the point lane I generate “add on” 
 are equally spaced compared to the existing point lane and in accordance to the spline.
 Comment: To run the code you need to add the Eigen-library to src.  
 
+---
+
 ## Setting up the enviroment:
 ### Simulator.
 You can download the Term3 Simulator which contains the Path Planning Project from the [releases tab (https://github.com/udacity/self-driving-car-sim/releases/tag/T3_v1.2).
